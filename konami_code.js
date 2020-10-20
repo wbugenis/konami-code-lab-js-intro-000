@@ -20,7 +20,7 @@ function konamiChecker(e){
   if(key === codes[index]){
     index++;
     if(index === codes.length) {
-      alert("You're the best around. Nothing's ever gonna bring you down.")
+      alert("Hurray!")
     }
     
     
